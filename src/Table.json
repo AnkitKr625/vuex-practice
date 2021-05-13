@@ -1,0 +1,530 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Ariane",
+        "last": "Knight"
+      },
+      "location": {
+        "street": {
+          "number": 7796,
+          "name": "Simcoe St"
+        },
+        "city": "Lafontaine",
+        "state": "Nova Scotia",
+        "country": "Canada",
+        "postcode": "L9Y 7I4",
+        "timezone": {
+          "offset": "+2:00",
+          "description": "Kaliningrad, South Africa"
+        }
+      },
+      "email": "ariane.knight@example.com",
+      "login": {
+        "uuid": "2718cd88-64a4-413c-a975-93f47c92fab5",
+        "username": "goldenlion276",
+        "password": "istheman",
+        "salt": "qNtfpWxJ",
+        "md5": "3753530af791892c65d1433d7f8f7317",
+        "sha1": "0c63a00797682e324508ebb19150f6c0c17e7cb3",
+        "sha256": "1f158d3585bb8b7681079172810b02305183aa81ac3ddc7c49504ac58d28fc16"
+      },
+      "dob": {
+        "date": "1996-10-13T20:51:02.046Z",
+        "age": 25
+      },
+      "registered": {
+        "date": "2006-11-06T15:54:24.972Z",
+        "age": 15
+      },
+      "phone": "761-967-3002",
+      "cell": "955-962-7976",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/47.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/47.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/47.jpg"
+      },
+      "nat": "CA"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Allen",
+        "last": "Fowler"
+      },
+      "location": {
+        "street": {
+          "number": 8861,
+          "name": "Woodland St"
+        },
+        "city": "Adelaide",
+        "state": "Tasmania",
+        "country": "Australia",
+        "postcode": 9790,
+        "timezone": {
+          "offset": "-3:30",
+          "description": "Newfoundland"
+        }
+      },
+      "email": "allen.fowler@example.com",
+      "login": {
+        "uuid": "4f89f94c-eb97-4eeb-8701-044ef0a08f04",
+        "username": "brownbear458",
+        "password": "gromit",
+        "salt": "G7crfxLA",
+        "md5": "246f291711017c4e0f0545a636189a7b",
+        "sha1": "f88adc5a56e4a9adb708db4b034db63d2704ecf3",
+        "sha256": "deac188c39433c7e049f51dbe18ec59c2750d6de8dcc1e9369a4d8281afac402"
+      },
+      "dob": {
+        "date": "1980-07-25T14:51:22.210Z",
+        "age": 41
+      },
+      "registered": {
+        "date": "2015-11-22T06:23:28.286Z",
+        "age": 6
+      },
+      "phone": "00-5358-9287",
+      "cell": "0453-023-432",
+      "id": {
+        "name": "TFN",
+        "value": "556729536"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/67.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+      },
+      "nat": "AU"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Noémie",
+        "last": "French"
+      },
+      "location": {
+        "street": {
+          "number": 5555,
+          "name": "Wellington St"
+        },
+        "city": "Notre Dame de Lourdes",
+        "state": "Ontario",
+        "country": "Canada",
+        "postcode": "M2R 3L0",
+        "timezone": {
+          "offset": "+10:00",
+          "description": "Eastern Australia, Guam, Vladivostok"
+        }
+      },
+      "email": "noemie.french@example.com",
+      "login": {
+        "uuid": "966306ac-a184-49ce-bec8-504564488ac3",
+        "username": "happysnake168",
+        "password": "heels",
+        "salt": "UbfCA0AU",
+        "md5": "98793a7f511e065874332ff19bdc275d",
+        "sha1": "4a5eae07df0ba5014a72ff41d893ebe2a940a93a",
+        "sha256": "a08f591401375f0a17dd2f1eda401b1d1608d07a7ed1b62629135381351f82f8"
+      },
+      "dob": {
+        "date": "1948-05-02T10:05:19.521Z",
+        "age": 73
+      },
+      "registered": {
+        "date": "2009-05-17T20:09:18.853Z",
+        "age": 12
+      },
+      "phone": "877-754-4367",
+      "cell": "753-462-7421",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/44.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+      },
+      "nat": "CA"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Ahmet",
+        "last": "Erberk"
+      },
+      "location": {
+        "street": {
+          "number": 9094,
+          "name": "Şehitler Cd"
+        },
+        "city": "Amasya",
+        "state": "İstanbul",
+        "country": "Turkey",
+        "postcode": 77999,
+        "timezone": {
+          "offset": "+5:30",
+          "description": "Bombay, Calcutta, Madras, New Delhi"
+        }
+      },
+      "email": "ahmet.erberk@example.com",
+      "login": {
+        "uuid": "49f28d48-e8f9-4aeb-8176-f6c66d1167cb",
+        "username": "crazymouse295",
+        "password": "1987",
+        "salt": "F68dxWbc",
+        "md5": "ea81018b19aacec755aca83a6ba55e6b",
+        "sha1": "17fb89ed52836a49d0d00d373e5ac01a5194aa6b",
+        "sha256": "ca6ce18b6ba7e793019f146ab9312e98299d027ec5f51d0ee68f42ce0e0453bf"
+      },
+      "dob": {
+        "date": "1961-07-05T18:44:38.805Z",
+        "age": 60
+      },
+      "registered": {
+        "date": "2005-08-05T18:30:46.368Z",
+        "age": 16
+      },
+      "phone": "(199)-112-5214",
+      "cell": "(983)-980-7575",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/14.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
+      },
+      "nat": "TR"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Deniz",
+        "last": "Dizdar"
+      },
+      "location": {
+        "street": {
+          "number": 4191,
+          "name": "Fatih Sultan Mehmet Cd"
+        },
+        "city": "İstanbul",
+        "state": "Batman",
+        "country": "Turkey",
+        "postcode": 85626,
+        "timezone": {
+          "offset": "+1:00",
+          "description": "Brussels, Copenhagen, Madrid, Paris"
+        }
+      },
+      "email": "deniz.dizdar@example.com",
+      "login": {
+        "uuid": "9675abc8-57a4-4c73-a74a-671e005be506",
+        "username": "goldensnake889",
+        "password": "radiohea",
+        "salt": "sV309zNV",
+        "md5": "f57a8c0fb6d4b4853daaf306c065cdda",
+        "sha1": "63c35338c64610a987618a32175de8c5b76e886b",
+        "sha256": "63cb7a9320cc24cc2d63a732c697a97427d09da76c5f7cf75be67110f148f98b"
+      },
+      "dob": {
+        "date": "1998-07-25T12:36:23.906Z",
+        "age": 23
+      },
+      "registered": {
+        "date": "2006-09-03T11:22:04.508Z",
+        "age": 15
+      },
+      "phone": "(212)-251-9238",
+      "cell": "(797)-360-9949",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/41.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+      },
+      "nat": "TR"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Jill",
+        "last": "Fletcher"
+      },
+      "location": {
+        "street": {
+          "number": 4607,
+          "name": "Valley View Ln"
+        },
+        "city": "Kalgoorlie",
+        "state": "Queensland",
+        "country": "Australia",
+        "postcode": 7257,
+        "timezone": {
+          "offset": "+4:30",
+          "description": "Kabul"
+        }
+      },
+      "email": "jill.fletcher@example.com",
+      "login": {
+        "uuid": "ef06c000-4a34-4322-bf12-48316ed5fe0b",
+        "username": "blackgoose512",
+        "password": "5000",
+        "salt": "42psbREf",
+        "md5": "1b851cc7cad97740b765830774905fdd",
+        "sha1": "dbbe5f10cf4a119e4b9daa29187c3ec6693fae77",
+        "sha256": "14d351ed7ec03aa98ef0520937d230c100a6a94ab28d9fe4a8ed33207f3316cd"
+      },
+      "dob": {
+        "date": "1989-04-24T18:57:54.006Z",
+        "age": 32
+      },
+      "registered": {
+        "date": "2004-04-11T04:27:13.218Z",
+        "age": 17
+      },
+      "phone": "01-1686-2682",
+      "cell": "0490-160-674",
+      "id": {
+        "name": "TFN",
+        "value": "024728661"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/57.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+      },
+      "nat": "AU"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Amelia",
+        "last": "Newman"
+      },
+      "location": {
+        "street": {
+          "number": 4037,
+          "name": "Killarney Road"
+        },
+        "city": "Dundalk",
+        "state": "Kildare",
+        "country": "Ireland",
+        "postcode": 73188,
+        "timezone": {
+          "offset": "+9:00",
+          "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+        }
+      },
+      "email": "amelia.newman@example.com",
+      "login": {
+        "uuid": "8ea44c76-c6ed-44ce-bf6a-cb5def463243",
+        "username": "ticklishcat625",
+        "password": "face",
+        "salt": "cNoXrE8Z",
+        "md5": "0ab8c4052d47a65532e82b1d6cb8f5c5",
+        "sha1": "7f114bf7597584db957b63e335bacb49fc718f16",
+        "sha256": "57fabdd22a64390f975251903175ad7ec649089403252c0efcd826a1478e1910"
+      },
+      "dob": {
+        "date": "1966-08-14T16:03:45.175Z",
+        "age": 55
+      },
+      "registered": {
+        "date": "2003-09-13T11:37:13.942Z",
+        "age": 18
+      },
+      "phone": "061-750-2163",
+      "cell": "081-105-3104",
+      "id": {
+        "name": "PPS",
+        "value": "7293962T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/43.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+      },
+      "nat": "IE"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Iag",
+        "last": "Ramos"
+      },
+      "location": {
+        "street": {
+          "number": 7490,
+          "name": "Rua Tiradentes "
+        },
+        "city": "Uberaba",
+        "state": "Mato Grosso do Sul",
+        "country": "Brazil",
+        "postcode": 74872,
+        "timezone": {
+          "offset": "-4:00",
+          "description": "Atlantic Time (Canada), Caracas, La Paz"
+        }
+      },
+      "email": "iag.ramos@example.com",
+      "login": {
+        "uuid": "e45dbec5-90ff-46f0-b748-a7d774ed440b",
+        "username": "bluesnake720",
+        "password": "xander",
+        "salt": "CNxiHJKJ",
+        "md5": "49fc6bf8993ae6e7888f85e0628d618f",
+        "sha1": "3763b3328ba120e2bae4069bb765e3ed8379ae76",
+        "sha256": "306677404e17a9bd2f3f98c563adf76fa43030f8ae856a6ec8fb39ff38052b43"
+      },
+      "dob": {
+        "date": "1990-09-08T22:06:58.019Z",
+        "age": 31
+      },
+      "registered": {
+        "date": "2018-12-06T10:55:53.742Z",
+        "age": 3
+      },
+      "phone": "(72) 7012-6488",
+      "cell": "(32) 2727-9584",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/50.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+      },
+      "nat": "BR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Troy",
+        "last": "Sulen"
+      },
+      "location": {
+        "street": {
+          "number": 6256,
+          "name": "Leirskallsvingen"
+        },
+        "city": "Feda",
+        "state": "Hedmark",
+        "country": "Norway",
+        "postcode": "9514",
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "troy.sulen@example.com",
+      "login": {
+        "uuid": "0257d191-19ca-449c-be02-a1ac6146c3da",
+        "username": "tinymouse289",
+        "password": "browning",
+        "salt": "sUSHouxl",
+        "md5": "33319fc837fc24617648e45a276dac81",
+        "sha1": "7915070a597a229da545a336b0580798fadda8dc",
+        "sha256": "30fb492fd2e2e99e85daba3c975a7895f9f483ade68bcef752a0d427f2e26077"
+      },
+      "dob": {
+        "date": "1990-05-02T14:01:26.145Z",
+        "age": 31
+      },
+      "registered": {
+        "date": "2013-05-10T14:01:58.736Z",
+        "age": 8
+      },
+      "phone": "25369614",
+      "cell": "41445747",
+      "id": {
+        "name": "FN",
+        "value": "02059040386"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/21.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Vincent",
+        "last": "Grant"
+      },
+      "location": {
+        "street": {
+          "number": 7338,
+          "name": "Pecan Acres Ln"
+        },
+        "city": "Gladstone",
+        "state": "Victoria",
+        "country": "Australia",
+        "postcode": 3354,
+        "timezone": {
+          "offset": "-5:00",
+          "description": "Eastern Time (US & Canada), Bogota, Lima"
+        }
+      },
+      "email": "vincent.grant@example.com",
+      "login": {
+        "uuid": "bad1a0e6-656b-40a3-847f-d5d29617cc81",
+        "username": "brownmeercat611",
+        "password": "titans",
+        "salt": "6x9WL9r3",
+        "md5": "eb210054a07f9e373348f853ec4bdb5c",
+        "sha1": "fe5c48ddc112da3e24b44a57a3676e598cb7bbdf",
+        "sha256": "e636cc4f6425275f636b8b1c0aec6ac2c27c501b3071914320d65d92914e85ea"
+      },
+      "dob": {
+        "date": "1963-07-30T20:36:47.761Z",
+        "age": 58
+      },
+      "registered": {
+        "date": "2011-08-31T17:40:20.636Z",
+        "age": 10
+      },
+      "phone": "06-0387-4894",
+      "cell": "0435-288-645",
+      "id": {
+        "name": "TFN",
+        "value": "723247246"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/21.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+      },
+      "nat": "AU"
+    }
+  ],
+  "info": {
+    "seed": "131d8d7a2facab23",
+    "results": 10,
+    "page": 1,
+    "version": "1.3"
+  }
+}
