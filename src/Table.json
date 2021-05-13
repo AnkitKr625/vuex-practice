@@ -41,10 +41,7 @@
       },
       "phone": "761-967-3002",
       "cell": "955-962-7976",
-      "id": {
-        "name": "",
-        "value": null
-      },
+      "id": 1,
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/47.jpg",
         "medium": "https://randomuser.me/api/portraits/med/women/47.jpg",
@@ -93,10 +90,7 @@
       },
       "phone": "00-5358-9287",
       "cell": "0453-023-432",
-      "id": {
-        "name": "TFN",
-        "value": "556729536"
-      },
+      "id": 2,
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/67.jpg",
         "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
@@ -145,10 +139,7 @@
       },
       "phone": "877-754-4367",
       "cell": "753-462-7421",
-      "id": {
-        "name": "",
-        "value": null
-      },
+      "id": 3,
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/44.jpg",
         "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
@@ -197,10 +188,7 @@
       },
       "phone": "(199)-112-5214",
       "cell": "(983)-980-7575",
-      "id": {
-        "name": "",
-        "value": null
-      },
+      "id": 4,
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/14.jpg",
         "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
@@ -249,10 +237,7 @@
       },
       "phone": "(212)-251-9238",
       "cell": "(797)-360-9949",
-      "id": {
-        "name": "",
-        "value": null
-      },
+      "id": 5,
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/41.jpg",
         "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
@@ -301,10 +286,7 @@
       },
       "phone": "01-1686-2682",
       "cell": "0490-160-674",
-      "id": {
-        "name": "TFN",
-        "value": "024728661"
-      },
+      "id": 6,
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/57.jpg",
         "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
@@ -353,10 +335,7 @@
       },
       "phone": "061-750-2163",
       "cell": "081-105-3104",
-      "id": {
-        "name": "PPS",
-        "value": "7293962T"
-      },
+      "id": 7,
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/43.jpg",
         "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
@@ -405,10 +384,7 @@
       },
       "phone": "(72) 7012-6488",
       "cell": "(32) 2727-9584",
-      "id": {
-        "name": "",
-        "value": null
-      },
+      "id": 8,
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/50.jpg",
         "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
@@ -457,10 +433,7 @@
       },
       "phone": "25369614",
       "cell": "41445747",
-      "id": {
-        "name": "FN",
-        "value": "02059040386"
-      },
+      "id": 9,
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/21.jpg",
         "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
@@ -509,10 +482,7 @@
       },
       "phone": "06-0387-4894",
       "cell": "0435-288-645",
-      "id": {
-        "name": "TFN",
-        "value": "723247246"
-      },
+      "id": 10,
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/21.jpg",
         "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
@@ -520,11 +490,5 @@
       },
       "nat": "AU"
     }
-  ],
-  "info": {
-    "seed": "131d8d7a2facab23",
-    "results": 10,
-    "page": 1,
-    "version": "1.3"
-  }
+  ]
 }
