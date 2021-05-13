@@ -1,27 +1,33 @@
 <template>
-  <div id="app">
-    <UserTable/>
-  </div>
+  <v-app>
+    <v-app-bar
+      app
+      color="primary"
+      dark
+    >
+      <div class="d-flex align-center">
+        <h1>USER TABLE</h1>
+      </div>
+    </v-app-bar>
+
+    <v-main>
+      <UserTable/>
+    </v-main>
+  </v-app>
 </template>
 
 <script>
-import UserTable from './components/UserTable.vue'
+import UserTable from './components/UserTable';
 
 export default {
   name: 'App',
-  components: {
-    UserTable
-  }
-}
-</script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+  components: {
+    UserTable,
+  },
+
+  data: () => ({
+    //
+  }),
+};
+</script>
