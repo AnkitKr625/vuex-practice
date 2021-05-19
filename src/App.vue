@@ -11,19 +11,19 @@
     </v-app-bar>
 
     <v-main>
-      <UserTable/>
+      <Counter/>
     </v-main>
   </v-app>
 </template>
 
 <script>
-import UserTable from './components/UserTable';
+import Counter from './components/Counter';
 
 export default {
   name: 'App',
 
   components: {
-    UserTable,
+    Counter,
   },
 
   data: () => ({
