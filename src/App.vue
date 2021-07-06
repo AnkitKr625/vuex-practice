@@ -13,6 +13,7 @@
     <v-main>
       <ABC/>
       <Counter/>
+      <XYZ/>
     </v-main>
   </v-app>
 </template>
@@ -20,6 +21,8 @@
 <script>
 import Counter from './components/Counter';
 import ABC from './components/ABC';
+import XYZ from './components/XYZ';
+
 
 export default {
   name: 'App',
@@ -27,6 +30,7 @@ export default {
   components: {
     Counter,
     ABC,
+    XYZ
   },
 
   data: () => ({
