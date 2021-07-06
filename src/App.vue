@@ -13,6 +13,7 @@
     <v-main>
       <ABC/>
       <Counter/>
+      <PQR/>
     </v-main>
   </v-app>
 </template>
@@ -20,6 +21,7 @@
 <script>
 import Counter from './components/Counter';
 import ABC from './components/ABC';
+import PQR from './components/PQR';
 
 export default {
   name: 'App',
@@ -27,6 +29,7 @@ export default {
   components: {
     Counter,
     ABC,
+    PQR
   },
 
   data: () => ({
