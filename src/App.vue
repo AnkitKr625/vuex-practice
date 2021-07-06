@@ -11,6 +11,7 @@
     </v-app-bar>
 
     <v-main>
+      <ABC/>
       <Counter/>
     </v-main>
   </v-app>
@@ -18,12 +19,14 @@
 
 <script>
 import Counter from './components/Counter';
+import ABC from './components/ABC';
 
 export default {
   name: 'App',
 
   components: {
     Counter,
+    ABC,
   },
 
   data: () => ({
